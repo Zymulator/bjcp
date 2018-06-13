@@ -1,0 +1,23 @@
+{
+  "name": "bjcp",
+  "version": "1.0.0",
+  "description": "BJCP Style Guidelines (2015)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boo-urns/bjcp.git"
+  },
+  "keywords": [
+    "bjcp",
+    "bjcp 2015"
+    "beer guidelines",
+    "beer style",
+    "beer"
+  ],
+  "author": "Corey Burns <coreyaburns@gmail.com> (https://github.com/Boo-urns)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boo-urns/bjcp/issues"
+  },
+  "homepage": "https://github.com/Boo-urns/bjcp#readme"
+}
